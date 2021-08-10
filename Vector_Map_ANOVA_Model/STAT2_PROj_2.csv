@@ -1,0 +1,60 @@
+location,pic,X,Y
+Main gate,p1,240.824,92.5503
+University gate,p1,1236.97,392.277
+auditorium NW,p1,968.101,498.063
+auditorium NE,p1,1142.21,542.14
+pond1 NW,p1,1276.64,564.179
+pond1 NE,p1,1439.73,597.237
+auditorium NW,p2,1012.96,136.317
+auditorium NE,p2,1181.68,177.357
+auditorium SW,p2,967.36,437.277
+auditorium SE,p2,1097.32,466.917
+pond1 NW,p2,1320.76,202.437
+pond1 NE,p2,1489.48,232.077
+pond1 SW,p2,1279.72,407.637
+pond1 SE,p2,1439.32,450.957
+medha bhawan NW,p2,1384.6,521.637
+medha bhawan NE,p2,1539.64,562.677
+pond2 NW,p2,974.2,542.157
+pond2 NE,p2,1256.92,605.997
+playground NW,p2,297.04,456.139
+playground NE,p2,611.68,561.019
+premananda NE,p2,228.64,597.499
+premananda SE,p2,205.84,676.884
+premananda NW,p3,32.5974,55.5214
+premananda NE,p3,256.29,105.738
+premananda SW,p3,14.3368,137.694
+premananda SE,p3,233.465,183.346
+playground NE,p3,644.329,69.2169
+playground SE,p3,555.308,532.581
+playground SW,p3,206.074,445.843
+ramkrishnananda bhawan NW,p3,62.271,566.819
+ramkrishnananda bhawan NE,p3,174.117,589.645
+school of mathematics NW,p3,708.241,658.123
+school of mathematics NE,p3,902.261,706.057
+pond2 NW,p3,1007.26,55.1254
+pond2 NE,p3,1288.02,119.434
+pond2 SW,p3,870.305,534.863
+pond2 SE,p3,1217.26,617.036
+medha bhawan NW,p3,1413.56,34.7706
+medha bhawan NE,p3,1571.06,71.2919
+medha bhawan SW,p3,1313.13,468.461
+medha bhawan SE,p3,1470.62,500.417
+statue,p2,1141.28,558.488
+ramkrishnananda bhawan NW,p4,91.6832,267.923
+ramkrishnananda bhawan NE,p4,203.214,290.684
+ramkrishnananda bhawan SW,p4,48.4368,459.117
+ramkrishnananda bhawan SE,p4,182.3728,479.603
+playground SE,p4,585.603,233.781
+playground SW,p4,228.251,151.84
+godown NW,p4,362.543,391.661
+godown NE,p4,624.297,464.497
+school of mathematics NW,p4,733.552,357.519
+school of mathematics NE,p4,931.575,405.318
+school of mathematics SW,p4,699.41,516.848
+school of mathematics SE,p4,890.605,550.99
+school of heritage NW,p4,1143.25,455.393
+school of heritage NE,p4,1339,500.915
+school of heritage SE,p4,1300.31,657.968
+school of heritage SW,p4,406.56,603.341
+pond2 SW,p4,899.709,234.608
